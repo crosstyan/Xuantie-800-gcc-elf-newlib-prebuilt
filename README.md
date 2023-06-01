@@ -3,7 +3,7 @@
 You could find x86_64-linux-gnu, mingw, even i686-linux-gnu toolchains in [upstream](https://occ.t-head.cn/community/download?id=3885366095506644992) (See also [this AUR](https://aur.archlinux.org/packages/csky-toolchain-bin))
 However, I could not find any prebuilt for `aarch64-linux-gnu` (Arm64 Linux) and `apple-aarch64-darwin` (Arm64 macOS i.e. M1/M2 series) anywhere on the Internet. So I built them by myself.
 
-You could find the prebuilt toolchains in [releases]().
+You could find the prebuilt toolchains in [releases](https://github.com/crosstyan/Xuantie-800-gcc-elf-newlib-prebuilt/releases/tag/v0.1).
 
 ## How to build
 
